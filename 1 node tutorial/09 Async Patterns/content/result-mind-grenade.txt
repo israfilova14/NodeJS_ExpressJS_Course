@@ -1,0 +1,4 @@
+This is awesome: Hello! We learn about NodeJS Async Patterns😍 
+
+Today the weather is vey good😊
+I love rain💧and coffe☕ 
